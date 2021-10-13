@@ -9,6 +9,9 @@
 
 First, clone this repository:
 
+```bash
+$ git clone -b master https://github.com/sajeesham/laravelstudentweb.git
+```
 Adjust .env file with database, username, and password
 
 DATABASENAME = student
