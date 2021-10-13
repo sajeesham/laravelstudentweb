@@ -57,7 +57,11 @@ $ php artisan db:seed --class=AdminAdd
 ```
 
 Please run the command below
+```bash
+$ php artisan key:generate
+```
 
+Please run the command below
 ```bash
 $ php artisan serve
 ```
