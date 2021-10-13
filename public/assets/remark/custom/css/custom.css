@@ -1,0 +1,192 @@
+.breadcrumb>li{
+    font-size: 13px;
+    font-weight: 400;
+}
+.breadcrumb>li a {
+    color: #4caf50;
+    text-decoration: underline;
+}
+.breadcrumb>.active {
+    color: #333;
+}
+.example-title {
+    text-transform: capitalize;
+}
+.page-login .brand-text{
+    display: inline-block;
+    color: #00bcd4 !important;
+    font-weight: 600;
+    text-transform: capitalize !important;
+    padding: 0px 5px;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 22px !important;
+    letter-spacing: 1px;
+}
+.page-login .brand-img{
+    display: inline-block;
+    margin-top: 10px;
+}
+.page-login .brand{
+    background-color: #fff;
+    vertical-align: middle;
+    height: 70px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 0 !important;
+
+}
+#widgetLineareaOne{
+    background: #efb44e;
+    color: #fff;
+}
+.medicine.users {
+    background: #42b7da !important;
+}
+
+.boxheading {
+    color: #fff;
+    font-size: 19px;
+    width: 100%;
+}
+.f1_container {
+    margin: 0px auto;
+    height: 161px;
+}
+.f1_card {
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 1.0s linear;
+}
+.face {
+    overflow: hidden;
+}
+.users .face.back {
+    opacity: 0;;
+    transform: rotateY(180deg);
+    box-sizing: border-box;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    background-color: #efb44e;
+}
+.users .usericon {
+    font-size: 40px;
+    margin: 0px;
+    text-align: center;
+    color: #fff;
+    padding: 0px;
+    position: relative;
+    width: 30%;
+    float: left;
+    top: 6%;
+}
+.users .usercount {
+    text-align: center;
+    font-size: 4em;
+    color: #fff;
+    position: relative;
+    width: 70%;
+    float: left;
+
+}
+.face {
+    width: 100%;
+    height: 100%;
+}
+.f1_container {
+    perspective: 1000;
+}
+.doctors {
+    background: #5298d4;
+}
+.patient{
+    background: #bd1d49  ;
+}
+.rightarrow {
+    float: right;
+}
+.widget a:hover{
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.required{
+color: #f44336;
+padding-left: 2px;
+}
+.example {
+    margin-top: 15px;
+}
+.date-span{
+    font-size: 12px !important;
+    float: right;
+    color: #fff;
+}
+.usercount .what-happen{
+ font-size:14px;
+}
+page-login form {
+    padding: 15px 50px 50px;
+    width: 400px;
+    border: 1px solid #3c3c3cad;
+    background: #3c3c3cad;
+}
+.input-group-append{
+position: absolute;
+    right: 10px;
+    top: 6px;
+}
+.hospital.input-group-append {
+    position: absolute;
+    right: 25px;
+    top: 34px;
+}
+.widget.chart .boxheading{
+    height: 53px;
+    padding: 10px 20px;
+    background: #e0e0e0;
+    color: #2c3137 !important;
+    margin: 0;
+}
+.sidebar-hospitallogo{
+    position: relative;
+    padding: 0;
+    padding-top: 6px;
+    width: 100%;
+    text-align: center;
+    z-index: 9999;
+}
+.sidebar-hospitallogo img{
+    object-fit: cover;
+    object-position: center;
+    height: 60px;
+    width: auto;
+    max-width: 80%;
+}
+.site-menubar-fold .site-menubar .sidebar-hospitallogo{
+    width: 90px;
+}
+small.help-block {
+    color: #f44336;
+}
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th{
+    text-transform:capitalize
+}
+.master-data-menu{
+	padding:10px 0 10px 24px;
+}
+table.dataTable{
+    text-transform:capitalize   
+}
+.lowercase{ text-transform:lowercase; }
+.badge.up{
+	position: absolute;
+	top: 12px;
+	right: 5px;
+	border-radius: 15px;
+	left: unset;
+}
+i.report-noti{
+	font-size:20px;
+}

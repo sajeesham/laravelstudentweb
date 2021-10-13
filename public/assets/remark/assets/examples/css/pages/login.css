@@ -1,0 +1,34 @@
+.page-login:before {
+  background-image: url("../../images/login.jpg");
+}
+.page-login form {
+	padding: 15px 50px 50px;
+    width: 400px;
+    border: 1px solid #3c3c3cad;
+    background: #3c3c3cad;	
+}
+.page-login form a {
+  margin-left: 20px;
+}
+.page-login .form-control,
+.page-login .floating-label,
+.page-login .form-control:focus + .floating-label {
+  color: #bdbdbd;
+}
+.page-login a {
+  color: #9fa8da;
+}
+
+
+.input-group-append{
+position: absolute;
+    right: 10px;
+    top: 6px;	
+}
+
+
+@media (max-width: 767px) {
+  .page-login form {
+    width: auto;
+  }
+}
